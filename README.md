@@ -1,0 +1,1 @@
+# CS50 - AI50 Week 2 Knights project
